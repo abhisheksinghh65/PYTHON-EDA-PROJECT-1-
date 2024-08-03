@@ -1,4 +1,4 @@
-# 🏪 PYTHON-EDA-PROJECT-1-
+# 🏪 SUPERSTORE_USA PYTHON-PROJECT
 1. 📖 Project Description:
     This project involves performing Exploratory Data Analysis (EDA) on the "Superstore USA" dataset.
    The primary goal is to extract valuable insights about various aspects of the dataset, including product categories, profit, shipping modes, and order dates.
